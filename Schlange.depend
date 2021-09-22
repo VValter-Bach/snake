@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1565862082 source:c:\users\ava\documents\schlange\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<cstdlib>
+	<thread>
+	<ctime>
+	"main.hpp"
+	"Graphics.hpp"
+
+1565862071 c:\users\ava\documents\schlange\main.hpp
+	<thread>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+	<bits/stdc++.h>
+
+1565787614 c:\users\ava\documents\schlange\graphics.hpp
+	<SFML/Graphics.hpp>
+	"main.hpp"
+
